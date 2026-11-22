@@ -1,6 +1,6 @@
 # Hi, I'm Daniil 👋
 
-**Java Backend Developer** · 3+ years · Spring Boot · Kafka · PostgreSQL
+**Java Backend Developer** · 4+ years · Spring Boot · Kafka · PostgreSQL
 
 ### What I work on
 - Event-driven backend services with **Spring Boot** and **Apache Kafka**
