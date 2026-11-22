@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Daniil 👋
 
-<!--
-**doza07/doza07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java Backend Developer** · 3+ years · Spring Boot · Kafka · PostgreSQL
 
-Here are some ideas to get you started:
+### What I work on
+- Event-driven backend services with **Spring Boot** and **Apache Kafka**
+- High-throughput data ingestion into **PostgreSQL** (bulk upserts, batching, tuning)
+- REST APIs, Liquibase / Flyway migrations, testing with JUnit
+- Delivery & observability: Docker, Kubernetes / OpenShift, Jenkins CI/CD, Prometheus, Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+Java 17/21 · Spring Boot · Spring Data JPA · Hibernate · Apache Kafka · PostgreSQL · ClickHouse · Docker · Kubernetes · OpenShift · Jenkins · Prometheus · Grafana · Apache Flink · Airflow
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/daniil-khnykin) · khn.doza@gmail.com
